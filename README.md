@@ -11,7 +11,7 @@ Charts: Utilized for visual representation of the data trends and patterns.
 
 ### Looker Studio
 Data Blending: Integrated the rows in the data source to generate KPI's  
-Advanced Visualizations: Created dynamic and interactive dashboards to provide deeper insights into the sales data.
+Advanced Visualizations: Created dynamic and interactive dashboards to provide deeper insights into the sales data.  
 Report Link: https://lookerstudio.google.com/reporting/a41bb47e-e45b-44b5-8dbd-245c10752846
 
 ### Features:
